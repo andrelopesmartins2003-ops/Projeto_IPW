@@ -1,0 +1,3 @@
+when opening the code its required to install npm and axios
+(npm install)
+(npm install axios)
